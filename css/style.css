@@ -1,0 +1,20 @@
+#header{
+  background-image: url("https://vetstreet.brightspotcdn.com/dims4/default/514331d/2147483647/thumbnail/645x380/quality/90/?url=https%3A%2F%2Fvetstreet-brightspot.s3.amazonaws.com%2F26%2F0d%2F6443c92b4c67ae315a8bb8be16e1%2FChihuahua-AP-KIDP62-645lc061113.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 30em;
+  width: 100%;
+}
+#header h1{
+  position: absolute;
+  font-size: 4em;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  color: #ECE5E4;
+  background-color: rgba(0,0,0,0.5);
+}
+.poppy{
+  font-family: sans-serif;
+  font-size: 2em;
+}
